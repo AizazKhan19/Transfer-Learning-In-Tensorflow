@@ -1,0 +1,11 @@
+# virtual env folder
+venv/
+
+# dataset folder
+PetImages/
+
+# python cache file
+__pycache__/
+*.pyc
+
+.vscode/
