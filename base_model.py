@@ -15,5 +15,5 @@ def pre_trained_model():
     return Base_Model
 
 if __name__ == '__main__':
-    pre_trained_model()
+    basemodel=pre_trained_model()
     print('Base Model Successfully Initilized')
